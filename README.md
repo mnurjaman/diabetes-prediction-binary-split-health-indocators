@@ -4,11 +4,11 @@ This project focuses on predicting the likelihood of diabetes based on a set of 
 ### Technology Used:
 - **Data Manipulation**: Pandas, Numpy
 - **Machine Learning**:
-- LightGBM (Light Gradient Boosting Machine)
-- XGBoost
-- Random Forest Classifier
-- Decision Tree Classifier
-- CatBoost
+  - LightGBM (Light Gradient Boosting Machine)
+  - XGBoost
+  - Random Forest Classifier
+  - Decision Tree Classifier
+  - CatBoost
 - **Model Evaluation**: Scikit-learn (Accuracy Score, Classification Report, Metrics)
 - **Data Visualization**: Matplotlib, Seaborn
 - **SHAP** (for interpretability model)
